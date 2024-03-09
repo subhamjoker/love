@@ -1,0 +1,40 @@
+html, body {
+    margin: 0; 
+    padding: 0;
+    height: 100%;
+    overflow: auto;
+}
+
+body {
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20230527/pngtree-an-anime-illustration-of-a-couple-looking-out-at-each-other-image_2686314.jpg'); /* Replace 'background.jpg' with the path to your image */
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat; 
+    text-align: center;
+} 
+ h1 {
+    background-color: rgba(240, 248, 255, 0.222);
+    overflow: hidden;
+    text-align: center;
+    margin-top: 30%;
+    margin-left: 15%;
+    margin-right: 15%;
+    white-space: nowrap;
+ }
+
+ h2{
+    margin-top: -10%;
+ }
+ h4{
+    margin-top: 100%;
+    text-align: center;
+    
+
+ }
+
+ .button {
+    background-color: rgba(255, 0, 0, 0.345); 
+    text-align: center;
+    padding: 10px 20pxx;
+    border-radius: 15%;
+ }
